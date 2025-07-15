@@ -43,7 +43,6 @@ app.get('/', (req, res) => {
     //BONUS : vérifier que le film existe bien avant de le supprimer
 
 
-
 // POST /film - Ajout d'un film 
 newFilm = {
     "id": 6,
